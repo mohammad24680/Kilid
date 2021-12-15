@@ -1,0 +1,386 @@
+@media screen and (max-width: 575px) {
+  header {
+    height: 46px;
+  }
+  .mohammad3 {
+    padding-top: 30px;
+    justify-content: flex-start;
+    position: relative;
+    z-index: 0;
+    background: linear-gradient(180deg, #1a1c21 -30%, #5e6171 130%);
+    height: 550px;
+  }
+  .svg1 {
+    width: 95px;
+    height: 25px;
+  }
+  .mohammad2 {
+    width: 95px;
+    font-size: 10px;
+  }
+  .mohammad5 {
+    flex: 0 0 5%;
+    max-width: 45%;
+  }
+  .button1 {
+    height: 40px;
+    flex: 1;
+    font-size: 12px;
+    font-weight: 500;
+    color: #eee;
+    background-color: rgba(173, 173, 173, 0.6);
+    border: 2px solid rgba(173, 173, 173, 0.6);
+    border-radius: 20px;
+    margin-left: none;
+    position: relative;
+    margin-bottom: 15px;
+    transition: all 0.2s ease;
+    flex: 0 0 72%;
+    max-width: 72%;
+    margin-left: 0px;
+  }
+  .button1:nth-of-type(1) {
+    background-color: rgba(9, 152, 124, 0.6);
+  }
+  .search {
+    background: none;
+    min-height: 76px;
+    border-radius: 40px;
+    padding: 0px;
+    width: 100%;
+    transition: all 0.3s ease;
+  }
+  .search2 {
+    position: relative;
+    background-color: #fff;
+    height: 46px;
+    border-radius: 25px;
+    flex: 1;
+    margin-left: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .saerch3 {
+    width: 100%;
+    margin-top: 19px;
+  }
+  .mohammad5 {
+    height: 110px;
+  }
+  .mohammad6 {
+    height: 112px;
+  }
+  .h44 {
+    color: white;
+    font-size: 18px;
+  }
+  .ii22 {
+    font-size: 12px;
+  }
+  .h22 {
+    font-size: 20px;
+  }
+  .p22 {
+    font-size: 14px;
+  }
+  .h66 {
+    font-size: 16px;
+  }
+  .a55 {
+    font-size: 11px;
+  }
+  .topp {
+    height: 80px;
+  }
+  .bbutton333 {
+    margin-bottom: 25%;
+  }
+  .figure1 {
+    width: 53px;
+    height: 53px;
+  }
+  .ul77 {
+    font-size: 80%;
+    height: 150px;
+    list-style: none;
+    text-align: right;
+  }
+  .l99 {
+    border-right: 1px solid #707070;
+    padding: 5px 10px 5px 0;
+  }
+  .svg2 {
+    width: 80px !important;
+    height: 21px !important;
+  }
+  .a100 {
+    font-size: 12px;
+  }
+  .akhar2 {
+    width: 470px;
+  }
+  .akhar3 {
+    margin-left: 0px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  header {
+    height: 46px;
+  }
+  .mohammad3 {
+    padding-top: 30px;
+    justify-content: flex-start;
+    position: relative;
+    z-index: 0;
+    background: linear-gradient(180deg, #1a1c21 -30%, #5e6171 130%);
+    height: 550px;
+  }
+  .svg1 {
+    width: 95px;
+    height: 25px;
+  }
+  .mohammad2 {
+    width: 95px;
+    font-size: 10px;
+  }
+  .mohammad5 {
+    flex: 0 0 5%;
+    max-width: 45%;
+  }
+  .button1 {
+    height: 40px;
+    flex: 1;
+    font-size: 15px;
+    color: #fff;
+    background-color: rgba(173, 173, 173, 0.6);
+    border: 2px solid #eee;
+    border-radius: 20px;
+    margin-left: none;
+    position: relative;
+    margin-bottom: 15px;
+    transition: all 0.2s ease;
+    flex: 0 0 72%;
+    max-width: 72%;
+    margin-left: 0px;
+  }
+  .button1:nth-of-type(1) {
+    background-color: rgba(9, 152, 124, 0.6);
+  }
+  .search {
+    background: none;
+    min-height: 76px;
+    border-radius: 40px;
+    padding: 0px;
+    width: 100%;
+    transition: all 0.3s ease;
+  }
+  .search2 {
+    position: relative;
+    background-color: #fff;
+    height: 46px;
+    border-radius: 25px;
+    flex: 1;
+    margin-left: 0px;
+    padding: 0px;
+    width: 100%;
+  }
+  .saerch3 {
+    width: 100%;
+    margin-top: 19px;
+  }
+  .mohammad5 {
+    height: 110px;
+  }
+  .mohammad6 {
+    height: 112px;
+  }
+  .h44 {
+    color: white;
+  }
+  .ii22 {
+    font-size: 12px;
+  }
+  .h22 {
+    font-size: 24px;
+  }
+  .p22 {
+    font-size: 19px;
+  }
+  .ul77 {
+    font-size: 15px;
+    height: 150px;
+    list-style: none;
+    text-align: right;
+  }
+  .l99 {
+    border-right: 1px solid #707070;
+    padding: 5px 10px 5px 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  header {
+    height: 46px;
+  }
+  .mohammad3 {
+    background: url(img/home-page-landing-background-min.jpg) no-repeat bottom;
+    width: 100%;
+    height: 742px;
+    background-size: cover;
+  }
+  .svg1 {
+    width: 95px;
+    height: 25px;
+  }
+  .mohammad2 {
+    width: 95px;
+    font-size: 10px;
+  }
+  .button1 {
+    height: 40px;
+    flex: 1;
+    font-size: 15px;
+    color: #fff;
+    background-color: rgba(44, 44, 44, 0.6);
+    border: 2px solid #eee;
+    border-radius: 20px;
+    margin-left: 5px;
+    position: relative;
+    margin-bottom: 15px;
+    transition: all 0.2s ease;
+    width: 206px;
+  }
+  .button1:nth-of-type(1) {
+    background-color: #b30753;
+  }
+  .search {
+    background: linear-gradient(180deg, rgba(28, 28, 28, 0.3) 0, #2c2c2c 130%);
+    min-height: 76px;
+    border-radius: 40px;
+    padding: 15px;
+    transition: all 0.3s ease;
+    width: 640px;
+  }
+  .search2 {
+    position: relative;
+    background-color: #fff;
+    height: 46px;
+    border-radius: 25px;
+    flex: 1;
+    margin-left: 10px;
+    width: 500px;
+  }
+  .saerch3 {
+    width: 100px;
+    margin-top: 0px;
+  }
+  .mohammad5 {
+    height: 55px;
+    flex: none;
+    max-width: none;
+  }
+  .mohammad6 {
+    height: 46px;
+  }
+  .h44 {
+    font-size: 25px;
+    color: black;
+  }
+  .first1 {
+    padding: 55px 0px;
+  }
+  .l99 {
+    padding: 14px 10px 5px 0;
+  }
+  .p22 {
+    width: 580px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  header {
+    height: 46px;
+  }
+  .mohammad3 {
+    background: url(img/home-page-landing-background-min.jpg) no-repeat bottom;
+    width: 100%;
+    height: 742px;
+    background-size: cover;
+  }
+  .bord1 {
+    top: -30px;
+  }
+  .divxl {
+    max-width: 720px;
+  }
+  .bord2 {
+    width: 720px;
+    height: 785px;
+  }
+  .p55 {
+    font-size: 13px;
+  }
+  .svg1 {
+    width: 95px;
+    height: 25px;
+  }
+  .mohammad2 {
+    width: 95px;
+    font-size: 10px;
+  }
+  .l99 {
+    border-right: 0px;
+  }
+  .ul77 {
+    height: 100%;
+  }
+  .p22 {
+    width: 701px;
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .mohammad3 {
+    background: url(img/home-page-landing-background-min.jpg) no-repeat bottom;
+    width: 100%;
+    height: 742px;
+    background-size: cover;
+  }
+  header {
+    height: 92px;
+  }
+  .bord1 {
+    top: 0px;
+  }
+  .divxl {
+    max-width: 992px;
+  }
+  .bord2 {
+    width: 992px;
+    height: 680px;
+  }
+  .p55 {
+    font-size: 13px;
+  }
+  .svg1 {
+    width: 110px;
+    height: 28px;
+  }
+  .mohammad2 {
+    width: 128px;
+    font-size: 14px;
+  }
+  .sardar1 {
+    width: 40%;
+    max-width: 40%;
+  }
+  .sardar2 {
+    width: 25%;
+    min-width: 25%;
+  }
+  .p22 {
+    width: 100%;
+  }
+}
